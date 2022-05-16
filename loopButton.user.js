@@ -57,7 +57,7 @@
     }
 
     const SELECTOR = {
-        UNIQUENESS_CUE: 'head title',
+        UNIQUENESS_CUE: 'title' // New youtube layout changes,
         BUTTON_RACK: 'div.ytp-chrome-controls > div.ytp-left-controls',
         VIDEO: 'video.html5-main-video',
         PLAY_BUTTON: 'div.ytp-autonav-toggle-button-container'
